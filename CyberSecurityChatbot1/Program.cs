@@ -1,4 +1,5 @@
-﻿using System;
+//This program educates users on staying safe online, it includes cybersecurity topics 
+using System;
 using System.Media;
 using System.Threading;
 
